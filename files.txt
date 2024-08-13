@@ -1,0 +1,4 @@
+NAME, DATE_OF_BIRTH, CITY
+souro, 08/12/2005, kol
+souro, 08/12/2006, kol
+souro, 08/12/2004, kol

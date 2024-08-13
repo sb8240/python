@@ -1,0 +1,1 @@
+# there is no as such concept of privaate, ppublic, protected in python
